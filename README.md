@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Iris Glaze
+- 👋 Hi, I’m Iris Glaze. I have worked as a Software Engineer for several years.
 
 <!---
 kiglaze/kiglaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
